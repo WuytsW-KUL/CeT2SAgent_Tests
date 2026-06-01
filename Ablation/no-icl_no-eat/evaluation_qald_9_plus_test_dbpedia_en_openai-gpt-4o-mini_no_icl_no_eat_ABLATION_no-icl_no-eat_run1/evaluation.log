@@ -1,0 +1,301 @@
+2026-05-29 02:39:19,568 | INFO | (1/150) QID=99 | gold pre-compute | What is the time zone of Salt Lake City?
+2026-05-29 02:39:20,054 | INFO | (2/150) QID=98 | gold pre-compute | Who killed Caesar?
+2026-05-29 02:39:20,519 | INFO | (3/150) QID=86 | gold pre-compute | What is the highest mountain in Germany?
+2026-05-29 02:39:20,966 | INFO | (4/150) QID=84 | gold pre-compute | Which American presidents were in office during the Vietnam War?
+2026-05-29 02:39:21,437 | INFO | (5/150) QID=81 | gold pre-compute | Butch Otter is the governor of which U.S. state?
+2026-05-29 02:39:21,890 | INFO | QID=81 skipped | gold result empty
+2026-05-29 02:39:21,890 | INFO | (6/150) QID=73 | gold pre-compute | How many gold medals did Michael Phelps win at the 2008 Olympics?
+2026-05-29 02:39:22,347 | INFO | (7/150) QID=66 | gold pre-compute | Which artists were born on the same date as Rachel Stevens?
+2026-05-29 02:39:22,811 | INFO | (8/150) QID=64 | gold pre-compute | What is the profession of Frank Herbert?
+2026-05-29 02:39:23,255 | INFO | (9/150) QID=6 | gold pre-compute | Are Taiko some kind of Japanese musical instrument?
+2026-05-29 02:39:23,708 | INFO | (10/150) QID=56 | gold pre-compute | How many seats does the home stadium of FC Porto have?
+2026-05-29 02:39:24,195 | INFO | (11/150) QID=49 | gold pre-compute | Which frequent flyer program has the most airlines?
+2026-05-29 02:39:24,640 | INFO | (12/150) QID=44 | gold pre-compute | Which European countries have a constitutional monarchy?
+2026-05-29 02:39:25,086 | INFO | (13/150) QID=42 | gold pre-compute | Which countries have places with more than two caves?
+2026-05-29 02:39:25,526 | INFO | (14/150) QID=4 | gold pre-compute | Which airports are located in California, USA?
+2026-05-29 02:39:25,990 | INFO | (15/150) QID=37 | gold pre-compute | What are the nicknames of San Francisco?
+2026-05-29 02:39:26,446 | INFO | QID=37 skipped | gold result empty
+2026-05-29 02:39:26,446 | INFO | (16/150) QID=32 | gold pre-compute | What is Angela Merkel’s birth name?
+2026-05-29 02:39:26,909 | INFO | (17/150) QID=31 | gold pre-compute | Who is the mayor of Berlin?
+2026-05-29 02:39:27,396 | INFO | QID=31 skipped | gold result empty
+2026-05-29 02:39:27,397 | INFO | (18/150) QID=29 | gold pre-compute | Which countries in the European Union adopted the Euro?
+2026-05-29 02:39:27,858 | INFO | (19/150) QID=23 | gold pre-compute | Which software has been published by Mean Hamster Software?
+2026-05-29 02:39:28,336 | INFO | (20/150) QID=68 | gold pre-compute | Which country was Bill Gates born in?
+2026-05-29 02:39:28,801 | INFO | (21/150) QID=22 | gold pre-compute | How many grand-children did Jacques Cousteau have?
+2026-05-29 02:39:29,253 | INFO | (22/150) QID=214 | gold pre-compute | Give me all professional skateboarders from Sweden.
+2026-05-29 02:39:29,723 | INFO | (23/150) QID=210 | gold pre-compute | Which monarchs of the United Kingdom were married to a German?
+2026-05-29 02:39:30,196 | INFO | QID=210 skipped | gold result empty
+2026-05-29 02:39:30,196 | INFO | (24/150) QID=199 | gold pre-compute | Give me all Argentine films.
+2026-05-29 02:39:30,741 | INFO | (25/150) QID=203 | gold pre-compute | How did Michael Jackson die?
+2026-05-29 02:39:31,216 | INFO | (26/150) QID=197 | gold pre-compute | Which U.S. state has been admitted latest?
+2026-05-29 02:39:31,682 | INFO | (27/150) QID=196 | gold pre-compute | Which classes does the Millepede belong to?
+2026-05-29 02:39:32,175 | INFO | (28/150) QID=188 | gold pre-compute | Give me the homepage of Forbes.
+2026-05-29 02:39:32,645 | INFO | (29/150) QID=187 | gold pre-compute | Who is the husband of Amanda Palmer?
+2026-05-29 02:39:33,112 | INFO | QID=187 skipped | gold result empty
+2026-05-29 02:39:33,112 | INFO | (30/150) QID=176 | gold pre-compute | Who painted The Storm on the Sea of Galilee?
+2026-05-29 02:39:33,583 | INFO | (31/150) QID=62 | gold pre-compute | What is the highest place of Karakoram?
+2026-05-29 02:39:34,022 | INFO | (32/150) QID=173 | gold pre-compute | When did Finland join the EU?
+2026-05-29 02:39:34,503 | INFO | QID=173 skipped | gold result empty
+2026-05-29 02:39:34,503 | INFO | (33/150) QID=168 | gold pre-compute | Which actors play in Big Bang Theory?
+2026-05-29 02:39:35,007 | INFO | (34/150) QID=166 | gold pre-compute | Which computer scientist won an oscar?
+2026-05-29 02:39:35,481 | INFO | QID=166 skipped | gold result empty
+2026-05-29 02:39:35,481 | INFO | (35/150) QID=160 | gold pre-compute | Who wrote Harry Potter?
+2026-05-29 02:39:35,944 | INFO | (36/150) QID=158 | gold pre-compute | Give me all writers that won the Nobel Prize in literature.
+2026-05-29 02:39:36,407 | INFO | (37/150) QID=157 | gold pre-compute | Give me English actors starring in Lovesick.
+2026-05-29 02:39:36,865 | INFO | (38/150) QID=155 | gold pre-compute | What is the nick name of Baghdad?
+2026-05-29 02:39:37,326 | INFO | (39/150) QID=150 | gold pre-compute | In which city was the president of Montenegro born?
+2026-05-29 02:39:37,785 | INFO | (40/150) QID=149 | gold pre-compute | Which U.S. state has the highest population density?
+2026-05-29 02:39:38,254 | INFO | QID=149 skipped | gold result empty
+2026-05-29 02:39:38,254 | INFO | (41/150) QID=25 | gold pre-compute | What is the longest river in China?
+2026-05-29 02:39:38,722 | INFO | (42/150) QID=143 | gold pre-compute | What is the area code of Berlin?
+2026-05-29 02:39:39,260 | INFO | (43/150) QID=140 | gold pre-compute | How many scientists graduated from an Ivy League university?
+2026-05-29 02:39:39,713 | INFO | (44/150) QID=139 | gold pre-compute | Which professional surfers were born in Australia?
+2026-05-29 02:39:40,183 | INFO | (45/150) QID=137 | gold pre-compute | Give me all Dutch parties.
+2026-05-29 02:39:40,659 | INFO | (46/150) QID=136 | gold pre-compute | How many moons does Mars have?
+2026-05-29 02:39:41,126 | INFO | (47/150) QID=134 | gold pre-compute | What is Batman's real name?
+2026-05-29 02:39:41,596 | INFO | (48/150) QID=132 | gold pre-compute | What is Elon Musk famous for?
+2026-05-29 02:39:42,051 | INFO | QID=132 skipped | gold result empty
+2026-05-29 02:39:42,057 | INFO | (49/150) QID=128 | gold pre-compute | Who is the author of WikiLeaks?
+2026-05-29 02:39:42,516 | INFO | QID=128 skipped | gold result empty
+2026-05-29 02:39:42,526 | INFO | (50/150) QID=126 | gold pre-compute | Sean Parnell was the governor of which U.S. state?
+2026-05-29 02:39:43,002 | INFO | QID=126 skipped | gold result empty
+2026-05-29 02:39:43,002 | INFO | (51/150) QID=125 | gold pre-compute | How many years was the Ford Model T manufactured?
+2026-05-29 02:39:43,843 | INFO | (52/150) QID=124 | gold pre-compute | When was Carlo Giuliani shot?
+2026-05-29 02:39:44,297 | INFO | (53/150) QID=123 | gold pre-compute | Give me all animals that are extinct.
+2026-05-29 02:39:44,765 | INFO | (54/150) QID=122 | gold pre-compute | Who was the wife of President Lincoln?
+2026-05-29 02:39:45,270 | INFO | (55/150) QID=111 | gold pre-compute | How many awards has Bertrand Russell?
+2026-05-29 02:39:45,868 | INFO | (56/150) QID=117 | gold pre-compute | Is Pamela Anderson a vegan?
+2026-05-29 02:39:46,348 | INFO | (57/150) QID=59 | gold pre-compute | Which space probes were sent into orbit around the sun?
+2026-05-29 02:39:46,812 | INFO | QID=59 skipped | gold result empty
+2026-05-29 02:39:46,812 | INFO | (58/150) QID=113 | gold pre-compute | Which German cities have more than 250000 inhabitants?
+2026-05-29 02:39:47,276 | INFO | (59/150) QID=104 | gold pre-compute | Who is the daughter of Robert Kennedy married to?
+2026-05-29 02:39:47,747 | INFO | (60/150) QID=10 | gold pre-compute | How many students does the Free University of Amsterdam have?
+2026-05-29 02:39:48,224 | INFO | QID=10 skipped | gold result empty
+2026-05-29 02:39:48,224 | INFO | (61/150) QID=1 | gold pre-compute | What is the revenue of IBM?
+2026-05-29 02:39:48,701 | INFO | (62/150) QID=178 | gold pre-compute | How many James Bond movies do exist?
+2026-05-29 02:39:49,155 | INFO | (63/150) QID=129 | gold pre-compute | Who does the voice of Bart Simpson?
+2026-05-29 02:39:49,610 | INFO | QID=129 skipped | gold result empty
+2026-05-29 02:39:49,610 | INFO | (64/150) QID=183 | gold pre-compute | Who was Tom Hanks married to?
+2026-05-29 02:39:50,067 | INFO | (65/150) QID=181 | gold pre-compute | Through which countries does the Yenisei river flow?
+2026-05-29 02:39:50,514 | INFO | QID=181 skipped | gold result empty
+2026-05-29 02:39:50,514 | INFO | (66/150) QID=7 | gold pre-compute | Give me all cars that are produced in Germany.
+2026-05-29 02:39:50,981 | INFO | (67/150) QID=135 | gold pre-compute | When did Michael Jackson die?
+2026-05-29 02:39:51,805 | INFO | (68/150) QID=50 | gold pre-compute | What is the highest volcano in Africa?
+2026-05-29 02:39:52,329 | INFO | (69/150) QID=39 | gold pre-compute | Which poet wrote the most books?
+2026-05-29 02:39:52,806 | INFO | (70/150) QID=83 | gold pre-compute | Give me all gangsters from the prohibition era.
+2026-05-29 02:39:53,256 | INFO | QID=83 skipped | gold result empty
+2026-05-29 02:39:53,256 | INFO | (71/150) QID=71 | gold pre-compute | Give me all spacecrafts that flew to Mars.
+2026-05-29 02:39:53,692 | INFO | QID=71 skipped | gold result empty
+2026-05-29 02:39:53,692 | INFO | (72/150) QID=213 | gold pre-compute | Show me all Czech movies.
+2026-05-29 02:39:54,181 | INFO | (73/150) QID=209 | gold pre-compute | Give me all taikonauts.
+2026-05-29 02:39:54,645 | INFO | (74/150) QID=105 | gold pre-compute | Which countries have more than ten volcanoes?
+2026-05-29 02:39:55,094 | INFO | (75/150) QID=52 | gold pre-compute | Give me all movies with Tom Cruise.
+2026-05-29 02:39:55,580 | INFO | (76/150) QID=102 | gold pre-compute | When did Dracula's creator die?
+2026-05-29 02:39:56,058 | INFO | (77/150) QID=21 | gold pre-compute | Who created English Wikipedia?
+2026-05-29 02:39:56,528 | INFO | QID=21 skipped | gold result empty
+2026-05-29 02:39:56,528 | INFO | (78/150) QID=34 | gold pre-compute | Give me all female German chancellors.
+2026-05-29 02:39:56,975 | INFO | (79/150) QID=145 | gold pre-compute | Who owns Aldi?
+2026-05-29 02:39:57,436 | INFO | (80/150) QID=154 | gold pre-compute | Which books were written by Danielle Steel?
+2026-05-29 02:39:57,928 | INFO | (81/150) QID=198 | gold pre-compute | Who was influenced by Socrates?
+2026-05-29 02:39:58,392 | INFO | (82/150) QID=162 | gold pre-compute | How deep is Lake Chiemsee?
+2026-05-29 02:39:58,847 | INFO | (83/150) QID=212 | gold pre-compute | Which companies work in the aerospace industry as well as in medicine?
+2026-05-29 02:39:59,313 | INFO | QID=212 skipped | gold result empty
+2026-05-29 02:39:59,313 | INFO | (84/150) QID=96 | gold pre-compute | Which professional surfers were born on the Philippines?
+2026-05-29 02:39:59,782 | INFO | QID=96 skipped | gold result empty
+2026-05-29 02:39:59,782 | INFO | (85/150) QID=40 | gold pre-compute | Who were the parents of Queen Victoria?
+2026-05-29 02:40:00,259 | INFO | (86/150) QID=79 | gold pre-compute | Are there any castles in the United States?
+2026-05-29 02:40:00,718 | INFO | (87/150) QID=141 | gold pre-compute | Which languages are spoken in Estonia?
+2026-05-29 02:40:01,201 | INFO | (88/150) QID=80 | gold pre-compute | Give me a list of all critically endangered birds.
+2026-05-29 02:40:01,927 | INFO | QID=80 skipped | gold result empty
+2026-05-29 02:40:01,927 | INFO | (89/150) QID=159 | gold pre-compute | Which countries are connected by the Rhine?
+2026-05-29 02:40:02,416 | INFO | QID=159 skipped | gold result empty
+2026-05-29 02:40:02,416 | INFO | (90/150) QID=107 | gold pre-compute | Who was the father of Queen Elizabeth II?
+2026-05-29 02:40:02,894 | INFO | QID=107 skipped | gold result empty
+2026-05-29 02:40:02,894 | INFO | (91/150) QID=163 | gold pre-compute | Give me all chemical elements.
+2026-05-29 02:40:03,364 | INFO | (92/150) QID=211 | gold pre-compute | Give me all American presidents of the last 20 years.
+2026-05-29 02:40:03,861 | INFO | QID=211 skipped | gold result empty
+2026-05-29 02:40:03,861 | INFO | (93/150) QID=51 | gold pre-compute | When is the movie Worst Case Scenario going to be in cinemas in the Netherlands?
+2026-05-29 02:40:04,324 | INFO | QID=51 skipped | gold result empty
+2026-05-29 02:40:04,325 | INFO | (94/150) QID=144 | gold pre-compute | Whom did Lance Bass marry?
+2026-05-29 02:40:04,793 | INFO | QID=144 skipped | gold result empty
+2026-05-29 02:40:04,793 | INFO | (95/150) QID=167 | gold pre-compute | Which subsidiary of TUI Travel serves both Glasgow and Dublin?
+2026-05-29 02:40:05,261 | INFO | QID=167 skipped | gold result empty
+2026-05-29 02:40:05,262 | INFO | (96/150) QID=131 | gold pre-compute | What languages are spoken in Pakistan?
+2026-05-29 02:40:05,728 | INFO | (97/150) QID=120 | gold pre-compute | Who is the daughter of Bill Clinton married to?
+2026-05-29 02:40:06,218 | INFO | (98/150) QID=164 | gold pre-compute | Who was on the Apollo 11 mission?
+2026-05-29 02:40:06,689 | INFO | (99/150) QID=88 | gold pre-compute | What is the wavelength of Indigo?
+2026-05-29 02:40:07,165 | INFO | (100/150) QID=151 | gold pre-compute | Give me all B-sides of the Ramones.
+2026-05-29 02:40:07,635 | INFO | QID=151 skipped | gold result empty
+2026-05-29 02:40:07,635 | INFO | (101/150) QID=63 | gold pre-compute | Who was called Scarface?
+2026-05-29 02:40:08,113 | INFO | (102/150) QID=27 | gold pre-compute | Which rivers flow into the North Sea?
+2026-05-29 02:40:08,576 | INFO | (103/150) QID=156 | gold pre-compute | Where is Fort Knox located?
+2026-05-29 02:40:09,029 | INFO | (104/150) QID=207 | gold pre-compute | Which daughters of British earls died at the same place they were born at?
+2026-05-29 02:40:09,494 | INFO | QID=207 skipped | gold result empty
+2026-05-29 02:40:09,494 | INFO | (105/150) QID=24 | gold pre-compute | How many emperors did China have?
+2026-05-29 02:40:09,934 | INFO | (106/150) QID=133 | gold pre-compute | What are the names of the Teenage Mutant Ninja Turtles?
+2026-05-29 02:40:10,386 | INFO | QID=133 skipped | gold result empty
+2026-05-29 02:40:10,386 | INFO | (107/150) QID=103 | gold pre-compute | Where does Piccadilly start?
+2026-05-29 02:40:10,866 | INFO | (108/150) QID=165 | gold pre-compute | What is the name of the university where Obama's wife studied?
+2026-05-29 02:40:11,334 | INFO | QID=165 skipped | gold result empty
+2026-05-29 02:40:11,334 | INFO | (109/150) QID=108 | gold pre-compute | When did Paraguay proclaim its independence?
+2026-05-29 02:40:11,796 | INFO | QID=108 skipped | gold result empty
+2026-05-29 02:40:11,796 | INFO | (110/150) QID=15 | gold pre-compute | How short is the shortest active NBA player?
+2026-05-29 02:40:12,255 | INFO | (111/150) QID=45 | gold pre-compute | Where did Abraham Lincoln die?
+2026-05-29 02:40:12,703 | INFO | QID=45 skipped | gold result empty
+2026-05-29 02:40:12,703 | INFO | (112/150) QID=82 | gold pre-compute | When was Jack Wolfskin founded?
+2026-05-29 02:40:13,198 | INFO | (113/150) QID=9 | gold pre-compute | In which city is the headquarter of Air China?
+2026-05-29 02:40:13,664 | INFO | QID=9 skipped | gold result empty
+2026-05-29 02:40:13,665 | INFO | (114/150) QID=201 | gold pre-compute | What is the founding year of the brewery that produces Pilsner Urquell?
+2026-05-29 02:40:14,128 | INFO | QID=201 skipped | gold result empty
+2026-05-29 02:40:14,128 | INFO | (115/150) QID=171 | gold pre-compute | When did the Boston Tea Party take place?
+2026-05-29 02:40:14,579 | INFO | (116/150) QID=182 | gold pre-compute | Which animals are critically endangered?
+2026-05-29 02:40:15,144 | INFO | (117/150) QID=13 | gold pre-compute | Which politicians were married to a German?
+2026-05-29 02:40:15,627 | INFO | (118/150) QID=114 | gold pre-compute | How big is the earth's diameter?
+2026-05-29 02:40:16,104 | INFO | QID=114 skipped | gold result empty
+2026-05-29 02:40:16,104 | INFO | (119/150) QID=92 | gold pre-compute | Is the wife of President Obama called Michelle?
+2026-05-29 02:40:16,551 | INFO | (120/150) QID=194 | gold pre-compute | Which U.S. state has the abbreviation MN?
+2026-05-29 02:40:17,025 | INFO | QID=194 skipped | gold result empty
+2026-05-29 02:40:17,025 | INFO | (121/150) QID=175 | gold pre-compute | When did Muhammad die?
+2026-05-29 02:40:17,488 | INFO | (122/150) QID=26 | gold pre-compute | What is the atmosphere of the Moon composed of?
+2026-05-29 02:40:17,970 | INFO | (123/150) QID=60 | gold pre-compute | Who is the governor of Texas?
+2026-05-29 02:40:18,433 | INFO | (124/150) QID=110 | gold pre-compute | Which movies did Kurosawa direct?
+2026-05-29 02:40:18,875 | INFO | (125/150) QID=206 | gold pre-compute | What was the name of the famous battle in 1836 in San Antonio?
+2026-05-29 02:40:19,341 | INFO | (126/150) QID=97 | gold pre-compute | Give me the official websites of actors of the television show Charmed.
+2026-05-29 02:40:19,828 | INFO | QID=97 skipped | gold result empty
+2026-05-29 02:40:19,828 | INFO | (127/150) QID=20 | gold pre-compute | How many calories does a baguette have?
+2026-05-29 02:40:20,284 | INFO | (128/150) QID=169 | gold pre-compute | Give me all libraries established before 1400.
+2026-05-29 02:40:20,745 | INFO | (129/150) QID=38 | gold pre-compute | Give me all Frisian islands that belong to the Netherlands.
+2026-05-29 02:40:21,202 | INFO | QID=38 skipped | gold result empty
+2026-05-29 02:40:21,202 | INFO | (130/150) QID=192 | gold pre-compute | Which museum exhibits The Scream by Munch?
+2026-05-29 02:40:21,655 | INFO | (131/150) QID=78 | gold pre-compute | When was the De Beers company founded?
+2026-05-29 02:40:22,121 | INFO | (132/150) QID=19 | gold pre-compute | Who became president after JFK died?
+2026-05-29 02:40:22,590 | INFO | QID=19 skipped | gold result empty
+2026-05-29 02:40:22,590 | INFO | (133/150) QID=190 | gold pre-compute | Who are the parents of the wife of Juan Carlos I?
+2026-05-29 02:40:23,066 | INFO | QID=190 skipped | gold result empty
+2026-05-29 02:40:23,066 | INFO | (134/150) QID=174 | gold pre-compute | Who is the novelist of the work a song of ice and fire?
+2026-05-29 02:40:23,532 | INFO | (135/150) QID=189 | gold pre-compute | In which studio did the Beatles record their first album?
+2026-05-29 02:40:24,017 | INFO | QID=189 skipped | gold result empty
+2026-05-29 02:40:24,018 | INFO | (136/150) QID=152 | gold pre-compute | Which beer brewing companies are located in North-Rhine Westphalia?
+2026-05-29 02:40:24,495 | INFO | (137/150) QID=94 | gold pre-compute | When did princess Diana die?
+2026-05-29 02:40:24,948 | INFO | QID=94 skipped | gold result empty
+2026-05-29 02:40:24,948 | INFO | (138/150) QID=8 | gold pre-compute | Who founded Intel?
+2026-05-29 02:40:25,413 | INFO | QID=8 skipped | gold result empty
+2026-05-29 02:40:25,413 | INFO | (139/150) QID=95 | gold pre-compute | Who is the youngest player in the Premier League?
+2026-05-29 02:40:25,872 | INFO | (140/150) QID=119 | gold pre-compute | Which instruments does Cat Stevens play?
+2026-05-29 02:40:26,351 | INFO | QID=119 skipped | gold result empty
+2026-05-29 02:40:26,351 | INFO | (141/150) QID=115 | gold pre-compute | How many rivers and lakes are in South Carolina?
+2026-05-29 02:40:26,835 | INFO | (142/150) QID=116 | gold pre-compute | Who was called Rodzilla?
+2026-05-29 02:40:27,305 | INFO | QID=116 skipped | gold result empty
+2026-05-29 02:40:27,305 | INFO | (143/150) QID=138 | gold pre-compute | Give me the capitals of all countries in Africa.
+2026-05-29 02:40:27,763 | INFO | (144/150) QID=177 | gold pre-compute | Which bridges are of the same type as the Manhattan Bridge?
+2026-05-29 02:40:28,247 | INFO | (145/150) QID=101 | gold pre-compute | How many companies were founded by the founder of Facebook?
+2026-05-29 02:40:28,717 | INFO | (146/150) QID=14 | gold pre-compute | Show me hiking trails in the Grand Canyon where there's no danger of flash floods.
+2026-05-29 02:40:29,205 | INFO | (147/150) QID=87 | gold pre-compute | Which book has the most pages?
+2026-05-29 02:40:29,678 | INFO | (148/150) QID=148 | gold pre-compute | What is the largest state in the United States?
+2026-05-29 02:40:30,138 | INFO | (149/150) QID=43 | gold pre-compute | Give me the websites of companies with more than 500000 employees.
+2026-05-29 02:40:30,629 | INFO | (150/150) QID=179 | gold pre-compute | What were the names of the three ships by Columbus?
+2026-05-29 02:40:31,087 | INFO | Gold pre-computation done. Starting parallel evaluation with 6 port(s): ['http://localhost:8000/api', 'http://localhost:8001/api', 'http://localhost:8002/api', 'http://localhost:8003/api', 'http://localhost:8004/api', 'http://localhost:8005/api']
+2026-05-29 02:41:15,379 | INFO | QID=98 done | P=0.1967 R=1.0000 F1=0.3288 | gold=12 pred=61 | port=http://localhost:8001/api
+2026-05-29 02:41:25,374 | INFO | QID=86 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=2663 | port=http://localhost:8002/api
+2026-05-29 02:41:25,835 | INFO | QID=84 done | P=0.0000 R=0.0000 F1=0.0000 | gold=4 pred=391 | port=http://localhost:8003/api
+2026-05-29 02:41:28,026 | INFO | QID=66 done | P=0.0000 R=0.0000 F1=0.0000 | gold=3 pred=0 | port=http://localhost:8005/api
+2026-05-29 02:41:29,485 | INFO | QID=73 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8004/api
+2026-05-29 02:41:47,407 | INFO | QID=99 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8000/api
+2026-05-29 02:41:59,220 | INFO | QID=64 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8001/api
+2026-05-29 02:42:13,080 | INFO | QID=56 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8003/api
+2026-05-29 02:42:21,103 | INFO | QID=6 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=36 | port=http://localhost:8002/api
+2026-05-29 02:42:27,888 | INFO | QID=44 done | P=0.0000 R=0.0000 F1=0.0000 | gold=4 pred=0 | port=http://localhost:8004/api
+2026-05-29 02:42:33,974 | INFO | QID=49 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8005/api
+2026-05-29 02:42:49,540 | INFO | QID=42 done | P=0.0000 R=0.0000 F1=0.0000 | gold=89 pred=0 | port=http://localhost:8000/api
+2026-05-29 02:42:55,352 | INFO | QID=32 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8003/api
+2026-05-29 02:43:02,732 | INFO | QID=4 done | P=0.0000 R=0.0000 F1=0.0000 | gold=86 pred=1 | port=http://localhost:8001/api
+2026-05-29 02:43:15,957 | INFO | QID=29 done | P=0.0000 R=0.0000 F1=0.0000 | gold=53 pred=1 | port=http://localhost:8002/api
+2026-05-29 02:43:17,760 | INFO | QID=23 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8004/api
+2026-05-29 02:43:23,105 | INFO | QID=68 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8005/api
+2026-05-29 02:43:47,926 | INFO | QID=22 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8000/api
+2026-05-29 02:43:51,084 | INFO | QID=199 done | P=0.9350 R=0.0728 F1=0.1351 | gold=1580 pred=123 | port=http://localhost:8001/api
+2026-05-29 02:44:06,525 | INFO | QID=203 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8002/api
+2026-05-29 02:44:09,963 | INFO | QID=197 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8004/api
+2026-05-29 02:44:19,657 | INFO | QID=214 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=0 | port=http://localhost:8003/api
+2026-05-29 02:44:32,681 | INFO | QID=188 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8000/api
+2026-05-29 02:44:35,417 | INFO | QID=176 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8001/api
+2026-05-29 02:44:59,746 | INFO | QID=62 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8002/api
+2026-05-29 02:45:09,614 | INFO | QID=160 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8003/api
+2026-05-29 02:45:10,331 | INFO | QID=168 done | P=0.0000 R=0.0000 F1=0.0000 | gold=10 pred=1 | port=http://localhost:8004/api
+2026-05-29 02:45:19,828 | INFO | QID=196 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=5 | port=http://localhost:8005/api
+2026-05-29 02:45:32,572 | INFO | QID=158 done | P=0.0000 R=0.0000 F1=0.0000 | gold=28 pred=128 | port=http://localhost:8000/api
+2026-05-29 02:45:36,153 | INFO | QID=157 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=10 | port=http://localhost:8001/api
+2026-05-29 02:45:48,704 | INFO | QID=155 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8002/api
+2026-05-29 02:45:57,392 | INFO | QID=150 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=2 | port=http://localhost:8003/api
+2026-05-29 02:46:01,658 | INFO | QID=25 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8004/api
+2026-05-29 02:46:08,445 | INFO | QID=143 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8005/api
+2026-05-29 02:46:20,658 | INFO | QID=140 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8000/api
+2026-05-29 02:46:42,823 | INFO | QID=137 done | P=0.0000 R=0.0000 F1=0.0000 | gold=3 pred=42 | port=http://localhost:8002/api
+2026-05-29 02:46:50,114 | INFO | QID=134 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8004/api
+2026-05-29 02:46:53,196 | INFO | QID=136 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8003/api
+2026-05-29 02:47:09,261 | INFO | QID=124 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8000/api
+2026-05-29 02:47:17,061 | INFO | QID=125 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8005/api
+2026-05-29 02:47:17,083 | INFO | QID=139 done | P=0.0000 R=0.0000 F1=0.0000 | gold=3 pred=0 | port=http://localhost:8001/api
+2026-05-29 02:47:29,523 | INFO | QID=123 done | P=1.0000 R=1.0000 F1=1.0000 | gold=2 pred=2 | port=http://localhost:8002/api
+2026-05-29 02:47:41,633 | INFO | QID=111 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8003/api
+2026-05-29 02:47:57,426 | INFO | QID=117 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8000/api
+2026-05-29 02:47:59,532 | INFO | QID=122 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=4 | port=http://localhost:8004/api
+2026-05-29 02:48:07,025 | INFO | QID=113 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0 | port=http://localhost:8005/api
+2026-05-29 02:48:16,047 | INFO | QID=1 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8002/api
+2026-05-29 02:48:32,111 | INFO | QID=178 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8003/api
+2026-05-29 02:48:50,180 | INFO | QID=7 done | P=0.0000 R=0.0000 F1=0.0000 | gold=149 pred=77 | port=http://localhost:8004/api
+2026-05-29 02:48:50,305 | INFO | QID=183 done | P=0.1429 R=1.0000 F1=0.2500 | gold=1 pred=7 | port=http://localhost:8000/api
+2026-05-29 02:48:51,284 | INFO | QID=104 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=0 | port=http://localhost:8001/api
+2026-05-29 02:48:51,573 | INFO | QID=135 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8005/api
+2026-05-29 02:49:10,005 | INFO | QID=50 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8002/api
+2026-05-29 02:49:18,988 | INFO | QID=39 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8003/api
+2026-05-29 02:49:35,671 | INFO | QID=209 done | P=0.0000 R=0.0000 F1=0.0000 | gold=14 pred=0 | port=http://localhost:8000/api
+2026-05-29 02:49:36,464 | INFO | QID=213 done | P=0.0526 R=0.0102 F1=0.0171 | gold=98 pred=19 | port=http://localhost:8004/api
+2026-05-29 02:49:38,797 | INFO | QID=105 done | P=0.0000 R=0.0000 F1=0.0000 | gold=48 pred=1096 | port=http://localhost:8001/api
+2026-05-29 02:49:39,021 | INFO | QID=52 done | P=1.0000 R=0.0217 F1=0.0426 | gold=46 pred=1 | port=http://localhost:8005/api
+2026-05-29 02:49:53,454 | INFO | QID=102 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8002/api
+2026-05-29 02:50:25,133 | INFO | QID=34 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0 | port=http://localhost:8003/api
+2026-05-29 02:50:30,340 | INFO | QID=154 done | P=1.0000 R=1.0000 F1=1.0000 | gold=54 pred=54 | port=http://localhost:8004/api
+2026-05-29 02:50:33,290 | INFO | QID=162 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0 | port=http://localhost:8005/api
+2026-05-29 02:50:37,412 | INFO | QID=145 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8000/api
+2026-05-29 02:50:40,138 | INFO | QID=40 done | P=1.0000 R=1.0000 F1=1.0000 | gold=2 pred=2 | port=http://localhost:8002/api
+2026-05-29 02:50:44,988 | INFO | QID=198 done | P=0.0000 R=0.0000 F1=0.0000 | gold=11 pred=7 | port=http://localhost:8001/api
+2026-05-29 02:51:09,744 | INFO | QID=79 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=39 | port=http://localhost:8003/api
+2026-05-29 02:51:17,959 | INFO | QID=141 done | P=0.5000 R=0.0833 F1=0.1429 | gold=12 pred=2 | port=http://localhost:8004/api
+2026-05-29 02:51:20,219 | INFO | QID=163 done | P=0.9760 R=1.0000 F1=0.9879 | gold=122 pred=125 | port=http://localhost:8005/api
+2026-05-29 02:51:20,890 | INFO | QID=131 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8000/api
+2026-05-29 02:51:21,730 | INFO | QID=120 done | P=0.3333 R=1.0000 F1=0.5000 | gold=1 pred=3 | port=http://localhost:8002/api
+2026-05-29 02:51:29,254 | INFO | QID=164 done | P=1.0000 R=1.0000 F1=1.0000 | gold=4 pred=4 | port=http://localhost:8001/api
+2026-05-29 02:51:51,355 | INFO | QID=88 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8003/api
+2026-05-29 02:52:03,898 | INFO | QID=156 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8000/api
+2026-05-29 02:52:05,045 | INFO | QID=27 done | P=0.0000 R=0.0000 F1=0.0000 | gold=35 pred=13 | port=http://localhost:8005/api
+2026-05-29 02:52:06,975 | INFO | QID=24 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8002/api
+2026-05-29 02:52:08,466 | INFO | QID=63 done | P=0.0000 R=0.0000 F1=0.0000 | gold=5 pred=1 | port=http://localhost:8004/api
+2026-05-29 02:52:16,283 | INFO | QID=103 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=6 | port=http://localhost:8001/api
+2026-05-29 02:52:34,709 | INFO | QID=15 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8003/api
+2026-05-29 02:52:49,046 | INFO | QID=171 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8005/api
+2026-05-29 02:52:51,206 | INFO | QID=182 done | P=0.9000 R=1.0000 F1=0.9474 | gold=9 pred=10 | port=http://localhost:8002/api
+2026-05-29 02:52:57,581 | INFO | QID=13 done | P=0.0003 R=0.0278 F1=0.0005 | gold=36 pred=3779 | port=http://localhost:8004/api
+2026-05-29 02:53:03,561 | INFO | QID=92 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8001/api
+2026-05-29 02:53:09,830 | INFO | QID=82 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8000/api
+2026-05-29 02:53:17,918 | INFO | QID=175 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8003/api
+2026-05-29 02:53:34,749 | INFO | QID=60 done | P=1.0000 R=1.0000 F1=1.0000 | gold=2 pred=2 | port=http://localhost:8002/api
+2026-05-29 02:53:34,856 | INFO | QID=26 done | P=0.0000 R=0.0000 F1=0.0000 | gold=7 pred=1 | port=http://localhost:8005/api
+2026-05-29 02:53:38,210 | INFO | QID=110 done | P=0.9688 R=1.0000 F1=0.9841 | gold=31 pred=32 | port=http://localhost:8004/api
+2026-05-29 02:53:56,307 | INFO | QID=206 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=15 | port=http://localhost:8001/api
+2026-05-29 02:54:10,041 | INFO | QID=169 done | P=0.0000 R=0.0000 F1=0.0000 | gold=17 pred=1 | port=http://localhost:8003/api
+2026-05-29 02:54:38,845 | INFO | QID=174 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8004/api
+2026-05-29 02:54:40,136 | INFO | QID=192 done | P=1.0000 R=1.0000 F1=1.0000 | gold=2 pred=2 | port=http://localhost:8002/api
+2026-05-29 02:54:44,410 | INFO | QID=20 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0 | port=http://localhost:8000/api
+2026-05-29 02:54:49,024 | INFO | QID=78 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8005/api
+2026-05-29 02:54:50,629 | INFO | QID=152 done | P=0.0000 R=0.0000 F1=0.0000 | gold=6 pred=0 | port=http://localhost:8001/api
+2026-05-29 02:54:59,284 | INFO | QID=95 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8003/api
+2026-05-29 02:55:23,280 | INFO | QID=138 done | P=1.0000 R=1.0000 F1=1.0000 | gold=66 pred=66 | port=http://localhost:8002/api
+2026-05-29 02:55:27,259 | INFO | QID=115 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8004/api
+2026-05-29 02:55:33,436 | INFO | QID=177 done | P=0.0000 R=0.0000 F1=0.0000 | gold=238 pred=9704 | port=http://localhost:8000/api
+2026-05-29 02:55:35,175 | INFO | QID=14 done | P=0.0147 R=1.0000 F1=0.0290 | gold=2 pred=136 | port=http://localhost:8001/api
+2026-05-29 02:55:40,370 | INFO | QID=87 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1 | port=http://localhost:8003/api
+2026-05-29 02:56:09,952 | INFO | QID=43 done | P=1.0000 R=0.1786 F1=0.3030 | gold=56 pred=10 | port=http://localhost:8004/api
+2026-05-29 02:56:24,885 | INFO | QID=101 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8005/api
+2026-05-29 02:56:29,823 | INFO | QID=148 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1 | port=http://localhost:8002/api
+2026-05-29 02:56:31,742 | INFO | QID=179 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=0 | port=http://localhost:8000/api

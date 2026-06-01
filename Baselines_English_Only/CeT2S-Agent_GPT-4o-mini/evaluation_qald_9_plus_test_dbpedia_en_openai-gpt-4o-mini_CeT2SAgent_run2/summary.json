@@ -1,0 +1,23 @@
+{
+    "total_questions": 150,
+    "processed_questions": 104,
+    "skipped_questions": 46,
+    "remaining_questions": 0,
+    "evaluated_questions": 104,
+    "final_tp_so_far": 1233,
+    "final_fp_so_far": 7199,
+    "final_fn_so_far": 1787,
+    "micro_precision_so_far": 0.14622865275142316,
+    "micro_recall_so_far": 0.40827814569536425,
+    "micro_f1_so_far": 0.21533356618931193,
+    "macro_precision_so_far": 0.5540882828238465,
+    "macro_recall_so_far": 0.5641317390365784,
+    "macro_f1_so_far": 0.5416474005791657,
+    "questions_with_f1_less_than_1": 52,
+    "elapsed_seconds": 691.2036535739899,
+    "done": true,
+    "prompt_tokens_so_far": 721538,
+    "completion_tokens_so_far": 34534,
+    "total_requests_so_far": 788,
+    "total_cost_so_far": 0.12895109999999999
+}

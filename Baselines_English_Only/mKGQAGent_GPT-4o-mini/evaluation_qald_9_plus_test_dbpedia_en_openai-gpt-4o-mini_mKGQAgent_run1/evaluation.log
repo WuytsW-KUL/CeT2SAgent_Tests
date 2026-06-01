@@ -1,0 +1,300 @@
+2026-05-24 15:58:37,715 | INFO | (1/150) QID=99 | What is the time zone of Salt Lake City?
+2026-05-24 15:59:01,204 | INFO | QID=99 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 15:59:01,207 | INFO | (2/150) QID=98 | Who killed Caesar?
+2026-05-24 15:59:35,090 | INFO | QID=98 done | P=0.0000 R=0.0000 F1=0.0000 | gold=12 pred=10
+2026-05-24 15:59:35,096 | INFO | (3/150) QID=86 | What is the highest mountain in Germany?
+2026-05-24 16:00:06,059 | INFO | QID=86 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:00:06,063 | INFO | (4/150) QID=84 | Which American presidents were in office during the Vietnam War?
+2026-05-24 16:00:45,950 | INFO | QID=84 done | P=0.0000 R=0.0000 F1=0.0000 | gold=4 pred=0
+2026-05-24 16:00:45,956 | INFO | (5/150) QID=81 | Butch Otter is the governor of which U.S. state?
+2026-05-24 16:00:46,443 | INFO | QID=81 skipped | gold result empty
+2026-05-24 16:00:46,444 | INFO | (6/150) QID=73 | How many gold medals did Michael Phelps win at the 2008 Olympics?
+2026-05-24 16:01:30,111 | INFO | QID=73 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1
+2026-05-24 16:01:30,116 | INFO | (7/150) QID=66 | Which artists were born on the same date as Rachel Stevens?
+2026-05-24 16:02:11,787 | INFO | QID=66 done | P=0.0000 R=0.0000 F1=0.0000 | gold=3 pred=3
+2026-05-24 16:02:11,792 | INFO | (8/150) QID=64 | What is the profession of Frank Herbert?
+2026-05-24 16:02:42,695 | INFO | QID=64 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:02:42,702 | INFO | (9/150) QID=6 | Are Taiko some kind of Japanese musical instrument?
+2026-05-24 16:03:16,508 | INFO | QID=6 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:03:16,513 | INFO | (10/150) QID=56 | How many seats does the home stadium of FC Porto have?
+2026-05-24 16:03:49,397 | INFO | QID=56 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:03:49,404 | INFO | (11/150) QID=49 | Which frequent flyer program has the most airlines?
+2026-05-24 16:04:26,613 | INFO | QID=49 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=10
+2026-05-24 16:04:26,620 | INFO | (12/150) QID=44 | Which European countries have a constitutional monarchy?
+2026-05-24 16:04:57,125 | INFO | QID=44 done | P=0.0000 R=0.0000 F1=0.0000 | gold=4 pred=0
+2026-05-24 16:04:57,132 | INFO | (13/150) QID=42 | Which countries have places with more than two caves?
+2026-05-24 16:05:36,579 | INFO | QID=42 done | P=0.0000 R=0.0000 F1=0.0000 | gold=89 pred=0
+2026-05-24 16:05:36,586 | INFO | (14/150) QID=4 | Which airports are located in California, USA?
+2026-05-24 16:06:07,100 | INFO | QID=4 done | P=1.0000 R=0.8605 F1=0.9250 | gold=86 pred=74
+2026-05-24 16:06:07,109 | INFO | (15/150) QID=37 | What are the nicknames of San Francisco?
+2026-05-24 16:06:07,621 | INFO | QID=37 skipped | gold result empty
+2026-05-24 16:06:07,621 | INFO | (16/150) QID=32 | What is Angela Merkel’s birth name?
+2026-05-24 16:06:34,084 | INFO | QID=32 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:06:34,090 | INFO | (17/150) QID=31 | Who is the mayor of Berlin?
+2026-05-24 16:06:34,579 | INFO | QID=31 skipped | gold result empty
+2026-05-24 16:06:34,580 | INFO | (18/150) QID=29 | Which countries in the European Union adopted the Euro?
+2026-05-24 16:07:15,125 | INFO | QID=29 done | P=0.0000 R=0.0000 F1=0.0000 | gold=53 pred=0
+2026-05-24 16:07:15,133 | INFO | (19/150) QID=23 | Which software has been published by Mean Hamster Software?
+2026-05-24 16:07:39,479 | INFO | QID=23 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:07:39,485 | INFO | (20/150) QID=68 | Which country was Bill Gates born in?
+2026-05-24 16:08:07,818 | INFO | QID=68 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:08:07,823 | INFO | (21/150) QID=22 | How many grand-children did Jacques Cousteau have?
+2026-05-24 16:08:43,469 | INFO | QID=22 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:08:43,475 | INFO | (22/150) QID=214 | Give me all professional skateboarders from Sweden.
+2026-05-24 16:09:28,905 | INFO | QID=214 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=0
+2026-05-24 16:09:28,914 | INFO | (23/150) QID=210 | Which monarchs of the United Kingdom were married to a German?
+2026-05-24 16:09:29,414 | INFO | QID=210 skipped | gold result empty
+2026-05-24 16:09:29,415 | INFO | (24/150) QID=199 | Give me all Argentine films.
+2026-05-24 16:10:02,616 | INFO | QID=199 done | P=1.0000 R=0.1449 F1=0.2532 | gold=1580 pred=229
+2026-05-24 16:10:02,634 | INFO | (25/150) QID=203 | How did Michael Jackson die?
+2026-05-24 16:10:33,904 | INFO | QID=203 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1
+2026-05-24 16:10:33,921 | INFO | (26/150) QID=197 | Which U.S. state has been admitted latest?
+2026-05-24 16:11:13,907 | INFO | QID=197 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:11:13,925 | INFO | (27/150) QID=196 | Which classes does the Millepede belong to?
+2026-05-24 16:11:52,468 | INFO | QID=196 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:11:52,485 | INFO | (28/150) QID=188 | Give me the homepage of Forbes.
+2026-05-24 16:12:17,148 | INFO | QID=188 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:12:17,169 | INFO | (29/150) QID=187 | Who is the husband of Amanda Palmer?
+2026-05-24 16:12:17,826 | INFO | QID=187 skipped | gold result empty
+2026-05-24 16:12:17,826 | INFO | (30/150) QID=176 | Who painted The Storm on the Sea of Galilee?
+2026-05-24 16:12:46,577 | INFO | QID=176 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:12:46,595 | INFO | (31/150) QID=62 | What is the highest place of Karakoram?
+2026-05-24 16:13:21,022 | INFO | QID=62 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1
+2026-05-24 16:13:21,040 | INFO | (32/150) QID=173 | When did Finland join the EU?
+2026-05-24 16:13:21,538 | INFO | QID=173 skipped | gold result empty
+2026-05-24 16:13:21,539 | INFO | (33/150) QID=168 | Which actors play in Big Bang Theory?
+2026-05-24 16:13:45,429 | INFO | QID=168 done | P=1.0000 R=1.0000 F1=1.0000 | gold=10 pred=10
+2026-05-24 16:13:45,439 | INFO | (34/150) QID=166 | Which computer scientist won an oscar?
+2026-05-24 16:13:46,016 | INFO | QID=166 skipped | gold result empty
+2026-05-24 16:13:46,017 | INFO | (35/150) QID=160 | Who wrote Harry Potter?
+2026-05-24 16:14:16,633 | INFO | QID=160 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:14:16,654 | INFO | (36/150) QID=158 | Give me all writers that won the Nobel Prize in literature.
+2026-05-24 16:14:52,188 | INFO | QID=158 done | P=1.0000 R=1.0000 F1=1.0000 | gold=28 pred=28
+2026-05-24 16:14:52,198 | INFO | (37/150) QID=157 | Give me English actors starring in Lovesick.
+2026-05-24 16:15:19,493 | INFO | QID=157 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:15:19,511 | INFO | (38/150) QID=155 | What is the nick name of Baghdad?
+2026-05-24 16:15:39,791 | INFO | QID=155 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:15:39,810 | INFO | (39/150) QID=150 | In which city was the president of Montenegro born?
+2026-05-24 16:16:04,876 | INFO | QID=150 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=0
+2026-05-24 16:16:04,894 | INFO | (40/150) QID=149 | Which U.S. state has the highest population density?
+2026-05-24 16:16:07,716 | INFO | QID=149 skipped | gold result empty
+2026-05-24 16:16:07,717 | INFO | (41/150) QID=25 | What is the longest river in China?
+2026-05-24 16:16:42,459 | INFO | QID=25 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:16:42,470 | INFO | (42/150) QID=143 | What is the area code of Berlin?
+2026-05-24 16:17:06,199 | INFO | QID=143 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:17:06,211 | INFO | (43/150) QID=140 | How many scientists graduated from an Ivy League university?
+2026-05-24 16:17:38,544 | INFO | QID=140 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:17:38,556 | INFO | (44/150) QID=139 | Which professional surfers were born in Australia?
+2026-05-24 16:18:06,620 | INFO | QID=139 done | P=0.0000 R=0.0000 F1=0.0000 | gold=3 pred=0
+2026-05-24 16:18:06,638 | INFO | (45/150) QID=137 | Give me all Dutch parties.
+2026-05-24 16:18:41,388 | INFO | QID=137 done | P=0.0000 R=0.0000 F1=0.0000 | gold=3 pred=2
+2026-05-24 16:18:41,408 | INFO | (46/150) QID=136 | How many moons does Mars have?
+2026-05-24 16:19:15,824 | INFO | QID=136 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1
+2026-05-24 16:19:15,843 | INFO | (47/150) QID=134 | What is Batman's real name?
+2026-05-24 16:19:42,445 | INFO | QID=134 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:19:42,465 | INFO | (48/150) QID=132 | What is Elon Musk famous for?
+2026-05-24 16:19:43,144 | INFO | QID=132 skipped | gold result empty
+2026-05-24 16:19:43,145 | INFO | (49/150) QID=128 | Who is the author of WikiLeaks?
+2026-05-24 16:19:43,778 | INFO | QID=128 skipped | gold result empty
+2026-05-24 16:19:43,779 | INFO | (50/150) QID=126 | Sean Parnell was the governor of which U.S. state?
+2026-05-24 16:19:44,426 | INFO | QID=126 skipped | gold result empty
+2026-05-24 16:19:44,426 | INFO | (51/150) QID=125 | How many years was the Ford Model T manufactured?
+2026-05-24 16:20:20,111 | INFO | QID=125 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:20:20,130 | INFO | (52/150) QID=124 | When was Carlo Giuliani shot?
+2026-05-24 16:20:47,531 | INFO | QID=124 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:20:47,551 | INFO | (53/150) QID=123 | Give me all animals that are extinct.
+2026-05-24 16:21:03,932 | INFO | QID=123 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=0
+2026-05-24 16:21:03,952 | INFO | (54/150) QID=122 | Who was the wife of President Lincoln?
+2026-05-24 16:21:29,438 | INFO | QID=122 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:21:29,450 | INFO | (55/150) QID=111 | How many awards has Bertrand Russell?
+2026-05-24 16:21:57,608 | INFO | QID=111 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1
+2026-05-24 16:21:57,628 | INFO | (56/150) QID=117 | Is Pamela Anderson a vegan?
+2026-05-24 16:22:23,701 | INFO | QID=117 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:22:23,713 | INFO | (57/150) QID=59 | Which space probes were sent into orbit around the sun?
+2026-05-24 16:22:24,209 | INFO | QID=59 skipped | gold result empty
+2026-05-24 16:22:24,210 | INFO | (58/150) QID=113 | Which German cities have more than 250000 inhabitants?
+2026-05-24 16:22:52,892 | INFO | QID=113 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:22:52,913 | INFO | (59/150) QID=104 | Who is the daughter of Robert Kennedy married to?
+2026-05-24 16:23:27,758 | INFO | QID=104 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=0
+2026-05-24 16:23:27,779 | INFO | (60/150) QID=10 | How many students does the Free University of Amsterdam have?
+2026-05-24 16:23:28,277 | INFO | QID=10 skipped | gold result empty
+2026-05-24 16:23:28,277 | INFO | (61/150) QID=1 | What is the revenue of IBM?
+2026-05-24 16:23:46,402 | INFO | QID=1 done | P=0.5000 R=1.0000 F1=0.6667 | gold=1 pred=2
+2026-05-24 16:23:46,423 | INFO | (62/150) QID=178 | How many James Bond movies do exist?
+2026-05-24 16:24:10,360 | INFO | QID=178 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1
+2026-05-24 16:24:10,380 | INFO | (63/150) QID=129 | Who does the voice of Bart Simpson?
+2026-05-24 16:24:10,891 | INFO | QID=129 skipped | gold result empty
+2026-05-24 16:24:10,892 | INFO | (64/150) QID=183 | Who was Tom Hanks married to?
+2026-05-24 16:24:36,344 | INFO | QID=183 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:24:36,355 | INFO | (65/150) QID=181 | Through which countries does the Yenisei river flow?
+2026-05-24 16:24:37,014 | INFO | QID=181 skipped | gold result empty
+2026-05-24 16:24:37,015 | INFO | (66/150) QID=7 | Give me all cars that are produced in Germany.
+2026-05-24 16:25:13,904 | INFO | QID=7 done | P=0.0000 R=0.0000 F1=0.0000 | gold=149 pred=0
+2026-05-24 16:25:13,926 | INFO | (67/150) QID=135 | When did Michael Jackson die?
+2026-05-24 16:25:37,853 | INFO | QID=135 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:25:37,865 | INFO | (68/150) QID=50 | What is the highest volcano in Africa?
+2026-05-24 16:26:18,531 | INFO | QID=50 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1
+2026-05-24 16:26:18,553 | INFO | (69/150) QID=39 | Which poet wrote the most books?
+2026-05-24 16:26:51,215 | INFO | QID=39 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:26:51,227 | INFO | (70/150) QID=83 | Give me all gangsters from the prohibition era.
+2026-05-24 16:26:51,739 | INFO | QID=83 skipped | gold result empty
+2026-05-24 16:26:51,740 | INFO | (71/150) QID=71 | Give me all spacecrafts that flew to Mars.
+2026-05-24 16:26:52,228 | INFO | QID=71 skipped | gold result empty
+2026-05-24 16:26:52,228 | INFO | (72/150) QID=213 | Show me all Czech movies.
+2026-05-24 16:28:08,088 | INFO | QID=213 done | P=1.0000 R=1.0000 F1=1.0000 | gold=98 pred=98
+2026-05-24 16:28:08,127 | INFO | (73/150) QID=209 | Give me all taikonauts.
+2026-05-24 16:28:55,409 | INFO | QID=209 done | P=1.0000 R=1.0000 F1=1.0000 | gold=14 pred=14
+2026-05-24 16:28:55,421 | INFO | (74/150) QID=105 | Which countries have more than ten volcanoes?
+2026-05-24 16:29:46,678 | INFO | QID=105 done | P=0.0000 R=0.0000 F1=0.0000 | gold=48 pred=48
+2026-05-24 16:29:46,702 | INFO | (75/150) QID=52 | Give me all movies with Tom Cruise.
+2026-05-24 16:30:17,327 | INFO | QID=52 done | P=1.0000 R=1.0000 F1=1.0000 | gold=46 pred=46
+2026-05-24 16:30:17,343 | INFO | (76/150) QID=102 | When did Dracula's creator die?
+2026-05-24 16:30:45,240 | INFO | QID=102 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:30:45,258 | INFO | (77/150) QID=21 | Who created English Wikipedia?
+2026-05-24 16:30:45,815 | INFO | QID=21 skipped | gold result empty
+2026-05-24 16:30:45,816 | INFO | (78/150) QID=34 | Give me all female German chancellors.
+2026-05-24 16:31:25,146 | INFO | QID=34 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:31:25,170 | INFO | (79/150) QID=145 | Who owns Aldi?
+2026-05-24 16:31:52,965 | INFO | QID=145 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=10
+2026-05-24 16:31:52,988 | INFO | (80/150) QID=154 | Which books were written by Danielle Steel?
+2026-05-24 16:32:21,882 | INFO | QID=154 done | P=1.0000 R=1.0000 F1=1.0000 | gold=54 pred=54
+2026-05-24 16:32:21,896 | INFO | (81/150) QID=198 | Who was influenced by Socrates?
+2026-05-24 16:32:46,175 | INFO | QID=198 done | P=1.0000 R=1.0000 F1=1.0000 | gold=11 pred=11
+2026-05-24 16:32:46,190 | INFO | (82/150) QID=162 | How deep is Lake Chiemsee?
+2026-05-24 16:33:27,321 | INFO | QID=162 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:33:27,335 | INFO | (83/150) QID=212 | Which companies work in the aerospace industry as well as in medicine?
+2026-05-24 16:33:27,815 | INFO | QID=212 skipped | gold result empty
+2026-05-24 16:33:27,815 | INFO | (84/150) QID=96 | Which professional surfers were born on the Philippines?
+2026-05-24 16:33:28,302 | INFO | QID=96 skipped | gold result empty
+2026-05-24 16:33:28,303 | INFO | (85/150) QID=40 | Who were the parents of Queen Victoria?
+2026-05-24 16:33:57,262 | INFO | QID=40 done | P=1.0000 R=1.0000 F1=1.0000 | gold=2 pred=2
+2026-05-24 16:33:57,277 | INFO | (86/150) QID=79 | Are there any castles in the United States?
+2026-05-24 16:34:34,483 | INFO | QID=79 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1
+2026-05-24 16:34:34,510 | INFO | (87/150) QID=141 | Which languages are spoken in Estonia?
+2026-05-24 16:34:59,179 | INFO | QID=141 done | P=1.0000 R=0.0833 F1=0.1538 | gold=12 pred=1
+2026-05-24 16:34:59,203 | INFO | (88/150) QID=80 | Give me a list of all critically endangered birds.
+2026-05-24 16:34:59,716 | INFO | QID=80 skipped | gold result empty
+2026-05-24 16:34:59,716 | INFO | (89/150) QID=159 | Which countries are connected by the Rhine?
+2026-05-24 16:35:00,202 | INFO | QID=159 skipped | gold result empty
+2026-05-24 16:35:00,203 | INFO | (90/150) QID=107 | Who was the father of Queen Elizabeth II?
+2026-05-24 16:35:00,703 | INFO | QID=107 skipped | gold result empty
+2026-05-24 16:35:00,704 | INFO | (91/150) QID=163 | Give me all chemical elements.
+2026-05-24 16:35:25,125 | INFO | QID=163 done | P=0.0000 R=0.0000 F1=0.0000 | gold=122 pred=0
+2026-05-24 16:35:25,150 | INFO | (92/150) QID=211 | Give me all American presidents of the last 20 years.
+2026-05-24 16:35:25,774 | INFO | QID=211 skipped | gold result empty
+2026-05-24 16:35:25,775 | INFO | (93/150) QID=51 | When is the movie Worst Case Scenario going to be in cinemas in the Netherlands?
+2026-05-24 16:35:26,290 | INFO | QID=51 skipped | gold result empty
+2026-05-24 16:35:26,290 | INFO | (94/150) QID=144 | Whom did Lance Bass marry?
+2026-05-24 16:35:26,807 | INFO | QID=144 skipped | gold result empty
+2026-05-24 16:35:26,807 | INFO | (95/150) QID=167 | Which subsidiary of TUI Travel serves both Glasgow and Dublin?
+2026-05-24 16:35:27,333 | INFO | QID=167 skipped | gold result empty
+2026-05-24 16:35:27,333 | INFO | (96/150) QID=131 | What languages are spoken in Pakistan?
+2026-05-24 16:35:47,069 | INFO | QID=131 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:35:47,083 | INFO | (97/150) QID=120 | Who is the daughter of Bill Clinton married to?
+2026-05-24 16:36:34,293 | INFO | QID=120 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:36:34,309 | INFO | (98/150) QID=164 | Who was on the Apollo 11 mission?
+2026-05-24 16:37:13,890 | INFO | QID=164 done | P=1.0000 R=0.7500 F1=0.8571 | gold=4 pred=3
+2026-05-24 16:37:13,914 | INFO | (99/150) QID=88 | What is the wavelength of Indigo?
+2026-05-24 16:37:48,981 | INFO | QID=88 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:37:48,998 | INFO | (100/150) QID=151 | Give me all B-sides of the Ramones.
+2026-05-24 16:37:49,614 | INFO | QID=151 skipped | gold result empty
+2026-05-24 16:37:49,614 | INFO | (101/150) QID=63 | Who was called Scarface?
+2026-05-24 16:38:32,726 | INFO | QID=63 done | P=0.0000 R=0.0000 F1=0.0000 | gold=5 pred=10
+2026-05-24 16:38:32,752 | INFO | (102/150) QID=27 | Which rivers flow into the North Sea?
+2026-05-24 16:38:59,421 | INFO | QID=27 done | P=0.0000 R=0.0000 F1=0.0000 | gold=35 pred=3
+2026-05-24 16:38:59,505 | INFO | (103/150) QID=156 | Where is Fort Knox located?
+2026-05-24 16:39:28,949 | INFO | QID=156 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=10
+2026-05-24 16:39:28,976 | INFO | (104/150) QID=207 | Which daughters of British earls died at the same place they were born at?
+2026-05-24 16:39:29,470 | INFO | QID=207 skipped | gold result empty
+2026-05-24 16:39:29,470 | INFO | (105/150) QID=24 | How many emperors did China have?
+2026-05-24 16:39:52,104 | INFO | QID=24 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1
+2026-05-24 16:39:52,131 | INFO | (106/150) QID=133 | What are the names of the Teenage Mutant Ninja Turtles?
+2026-05-24 16:39:52,637 | INFO | QID=133 skipped | gold result empty
+2026-05-24 16:39:52,638 | INFO | (107/150) QID=103 | Where does Piccadilly start?
+2026-05-24 16:40:28,253 | INFO | QID=103 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:40:28,279 | INFO | (108/150) QID=165 | What is the name of the university where Obama's wife studied?
+2026-05-24 16:40:28,788 | INFO | QID=165 skipped | gold result empty
+2026-05-24 16:40:28,789 | INFO | (109/150) QID=108 | When did Paraguay proclaim its independence?
+2026-05-24 16:40:29,283 | INFO | QID=108 skipped | gold result empty
+2026-05-24 16:40:29,284 | INFO | (110/150) QID=15 | How short is the shortest active NBA player?
+2026-05-24 16:41:10,577 | INFO | QID=15 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1
+2026-05-24 16:41:10,604 | INFO | (111/150) QID=45 | Where did Abraham Lincoln die?
+2026-05-24 16:41:11,124 | INFO | QID=45 skipped | gold result empty
+2026-05-24 16:41:11,124 | INFO | (112/150) QID=82 | When was Jack Wolfskin founded?
+2026-05-24 16:41:42,167 | INFO | QID=82 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:41:42,193 | INFO | (113/150) QID=9 | In which city is the headquarter of Air China?
+2026-05-24 16:41:42,707 | INFO | QID=9 skipped | gold result empty
+2026-05-24 16:41:42,707 | INFO | (114/150) QID=201 | What is the founding year of the brewery that produces Pilsner Urquell?
+2026-05-24 16:41:43,218 | INFO | QID=201 skipped | gold result empty
+2026-05-24 16:41:43,219 | INFO | (115/150) QID=171 | When did the Boston Tea Party take place?
+2026-05-24 16:43:17,298 | INFO | QID=171 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:43:17,324 | INFO | (116/150) QID=182 | Which animals are critically endangered?
+2026-05-24 16:43:45,642 | INFO | QID=182 done | P=0.0000 R=0.0000 F1=0.0000 | gold=9 pred=0
+2026-05-24 16:43:45,672 | INFO | (117/150) QID=13 | Which politicians were married to a German?
+2026-05-24 16:44:05,166 | INFO | QID=13 done | P=0.0000 R=0.0000 F1=0.0000 | gold=36 pred=1
+2026-05-24 16:44:05,205 | INFO | (118/150) QID=114 | How big is the earth's diameter?
+2026-05-24 16:44:05,855 | INFO | QID=114 skipped | gold result empty
+2026-05-24 16:44:05,855 | INFO | (119/150) QID=92 | Is the wife of President Obama called Michelle?
+2026-05-24 16:44:38,645 | INFO | QID=92 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:44:38,662 | INFO | (120/150) QID=194 | Which U.S. state has the abbreviation MN?
+2026-05-24 16:44:39,310 | INFO | QID=194 skipped | gold result empty
+2026-05-24 16:44:39,311 | INFO | (121/150) QID=175 | When did Muhammad die?
+2026-05-24 16:45:02,605 | INFO | QID=175 done | P=1.0000 R=1.0000 F1=1.0000 | gold=1 pred=1
+2026-05-24 16:45:02,623 | INFO | (122/150) QID=26 | What is the atmosphere of the Moon composed of?
+2026-05-24 16:45:30,282 | INFO | QID=26 done | P=0.0000 R=0.0000 F1=0.0000 | gold=7 pred=0
+2026-05-24 16:45:30,313 | INFO | (123/150) QID=60 | Who is the governor of Texas?
+2026-05-24 16:45:49,854 | INFO | QID=60 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=0
+2026-05-24 16:45:49,882 | INFO | (124/150) QID=110 | Which movies did Kurosawa direct?
+2026-05-24 16:46:14,958 | INFO | QID=110 done | P=1.0000 R=1.0000 F1=1.0000 | gold=31 pred=31
+2026-05-24 16:46:14,975 | INFO | (125/150) QID=206 | What was the name of the famous battle in 1836 in San Antonio?
+2026-05-24 16:47:07,693 | INFO | QID=206 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=0
+2026-05-24 16:47:07,746 | INFO | (126/150) QID=97 | Give me the official websites of actors of the television show Charmed.
+2026-05-24 16:47:08,443 | INFO | QID=97 skipped | gold result empty
+2026-05-24 16:47:08,443 | INFO | (127/150) QID=20 | How many calories does a baguette have?
+2026-05-24 16:47:34,363 | INFO | QID=20 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:47:34,397 | INFO | (128/150) QID=169 | Give me all libraries established before 1400.
+2026-05-24 16:48:01,558 | INFO | QID=169 done | P=0.0000 R=0.0000 F1=0.0000 | gold=17 pred=0
+2026-05-24 16:48:01,599 | INFO | (129/150) QID=38 | Give me all Frisian islands that belong to the Netherlands.
+2026-05-24 16:48:02,468 | INFO | QID=38 skipped | gold result empty
+2026-05-24 16:48:02,470 | INFO | (130/150) QID=192 | Which museum exhibits The Scream by Munch?
+2026-05-24 16:48:53,333 | INFO | QID=192 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=0
+2026-05-24 16:48:53,371 | INFO | (131/150) QID=78 | When was the De Beers company founded?
+2026-05-24 16:49:19,017 | INFO | QID=78 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:49:19,048 | INFO | (132/150) QID=19 | Who became president after JFK died?
+2026-05-24 16:49:20,660 | INFO | QID=19 skipped | gold result empty
+2026-05-24 16:49:20,660 | INFO | (133/150) QID=190 | Who are the parents of the wife of Juan Carlos I?
+2026-05-24 16:49:21,299 | INFO | QID=190 skipped | gold result empty
+2026-05-24 16:49:21,300 | INFO | (134/150) QID=174 | Who is the novelist of the work a song of ice and fire?
+2026-05-24 16:49:53,026 | INFO | QID=174 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:49:53,056 | INFO | (135/150) QID=189 | In which studio did the Beatles record their first album?
+2026-05-24 16:49:53,589 | INFO | QID=189 skipped | gold result empty
+2026-05-24 16:49:53,589 | INFO | (136/150) QID=152 | Which beer brewing companies are located in North-Rhine Westphalia?
+2026-05-24 16:50:46,733 | INFO | QID=152 done | P=0.0000 R=0.0000 F1=0.0000 | gold=6 pred=0
+2026-05-24 16:50:46,766 | INFO | (137/150) QID=94 | When did princess Diana die?
+2026-05-24 16:50:47,307 | INFO | QID=94 skipped | gold result empty
+2026-05-24 16:50:47,308 | INFO | (138/150) QID=8 | Who founded Intel?
+2026-05-24 16:50:49,193 | INFO | QID=8 skipped | gold result empty
+2026-05-24 16:50:49,193 | INFO | (139/150) QID=95 | Who is the youngest player in the Premier League?
+2026-05-24 16:51:16,747 | INFO | QID=95 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:51:16,777 | INFO | (140/150) QID=119 | Which instruments does Cat Stevens play?
+2026-05-24 16:51:17,406 | INFO | QID=119 skipped | gold result empty
+2026-05-24 16:51:17,407 | INFO | (141/150) QID=115 | How many rivers and lakes are in South Carolina?
+2026-05-24 16:52:06,417 | INFO | QID=115 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1
+2026-05-24 16:52:06,447 | INFO | (142/150) QID=116 | Who was called Rodzilla?
+2026-05-24 16:52:12,778 | INFO | QID=116 skipped | gold result empty
+2026-05-24 16:52:12,779 | INFO | (143/150) QID=138 | Give me the capitals of all countries in Africa.
+2026-05-24 16:52:56,422 | INFO | QID=138 done | P=0.0000 R=0.0000 F1=0.0000 | gold=66 pred=0
+2026-05-24 16:52:56,452 | INFO | (144/150) QID=177 | Which bridges are of the same type as the Manhattan Bridge?
+2026-05-24 16:54:02,830 | INFO | QID=177 done | P=1.0000 R=1.0000 F1=1.0000 | gold=238 pred=238
+2026-05-24 16:54:02,849 | INFO | (145/150) QID=101 | How many companies were founded by the founder of Facebook?
+2026-05-24 16:54:43,856 | INFO | QID=101 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1
+2026-05-24 16:54:43,887 | INFO | (146/150) QID=14 | Show me hiking trails in the Grand Canyon where there's no danger of flash floods.
+2026-05-24 16:55:19,178 | INFO | QID=14 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=0
+2026-05-24 16:55:19,209 | INFO | (147/150) QID=87 | Which book has the most pages?
+2026-05-24 16:55:48,892 | INFO | QID=87 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=1
+2026-05-24 16:55:48,924 | INFO | (148/150) QID=148 | What is the largest state in the United States?
+2026-05-24 16:56:15,072 | INFO | QID=148 done | P=0.0000 R=0.0000 F1=0.0000 | gold=1 pred=0
+2026-05-24 16:56:15,104 | INFO | (149/150) QID=43 | Give me the websites of companies with more than 500000 employees.
+2026-05-24 16:57:06,424 | INFO | QID=43 done | P=0.0000 R=0.0000 F1=0.0000 | gold=56 pred=0
+2026-05-24 16:57:06,456 | INFO | (150/150) QID=179 | What were the names of the three ships by Columbus?
+2026-05-24 16:57:49,894 | INFO | QID=179 done | P=0.0000 R=0.0000 F1=0.0000 | gold=2 pred=3

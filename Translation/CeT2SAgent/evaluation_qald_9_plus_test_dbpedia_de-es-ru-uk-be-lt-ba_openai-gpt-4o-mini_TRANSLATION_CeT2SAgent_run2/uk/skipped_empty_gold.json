@@ -1,0 +1,1061 @@
+[
+    {
+        "index": 5,
+        "id": "81",
+        "lang": "uk",
+        "question": "Губернатором якого штату є Бутч Оттер?",
+        "gold_query": "SELECT DISTINCT ?uri WHERE { ?uri a <http://dbpedia.org/class/yago/WikicatStatesOfTheUnitedStates> ; <http://dbpedia.org/property/governor> <http://dbpedia.org/resource/Butch_Otter> }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 15,
+        "id": "37",
+        "lang": "uk",
+        "question": "Як ще називають Сан-Франциско?",
+        "gold_query": "PREFIX res: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> PREFIX foaf:<http://xmlns.com/foaf/0.1/> SELECT DISTINCT ?string WHERE { res:San_Francisco foaf:nick ?string }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "string"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 17,
+        "id": "31",
+        "lang": "uk",
+        "question": "Хто є мером Берліну?",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Berlin dbp:leader ?uri }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 23,
+        "id": "210",
+        "lang": "uk",
+        "question": "Хто з монархів Сполученого Королівства мав шлюб з німецькими?",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX yago: <http://dbpedia.org/class/yago/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type yago:WikicatMonarchsOfTheUnitedKingdom ; dbo:spouse ?spouse . ?spouse dbo:birthPlace res:Germany }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 29,
+        "id": "187",
+        "lang": "uk",
+        "question": "Хто чоловік Аманди Палмер?",
+        "gold_query": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/spouse> <http://dbpedia.org/resource/Amanda_Palmer> }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 32,
+        "id": "173",
+        "lang": "uk",
+        "question": "Коли Фінляндія приєдналася до ЄС?",
+        "gold_query": "PREFIX res: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT DISTINCT ?date WHERE { res:Finland dbp:accessioneudate ?date }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "date"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 34,
+        "id": "166",
+        "lang": "uk",
+        "question": "Який інформатик виграв Оскар?",
+        "gold_query": "SELECT DISTINCT ?uri WHERE { ?uri <http://dbpedia.org/ontology/field> <http://dbpedia.org/resource/Computer_science> ; <http://dbpedia.org/ontology/award> <http://dbpedia.org/resource/Academy_Award> }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 40,
+        "id": "149",
+        "lang": "uk",
+        "question": "Який штат Америки має найбільшу густоту населення?",
+        "gold_query": "SELECT ?uri WHERE { ?uri <http://dbpedia.org/ontology/country> <http://dbpedia.org/resource/United_States> . ?uri <http://dbpedia.org/ontology/capital> ?capital . ?uri <http://dbpedia.org/property/densityrank> ?density . OPTIONAL {?uri <http://www.w3.org/2000/01/rdf-schema#label> ?string. FILTER (lang(?string) = 'en') } } ORDER BY ASC(?density) LIMIT 1",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 48,
+        "id": "132",
+        "lang": "uk",
+        "question": "Чим відомий Ілон Маск?",
+        "gold_query": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Elon_Musk> <http://dbpedia.org/ontology/knownFor> ?uri }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 49,
+        "id": "128",
+        "lang": "uk",
+        "question": "Хто є автором WikiLeaks?",
+        "gold_query": "PREFIX res: <http://dbpedia.org/resource/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX onto: <http://dbpedia.org/ontology/> SELECT ?uri WHERE { res:WikiLeaks onto:author ?uri }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 50,
+        "id": "126",
+        "lang": "uk",
+        "question": "Губернатором якого американського штату був Шон Парнелл?",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Sean_Parnell dbo:region ?uri }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 57,
+        "id": "59",
+        "lang": "uk",
+        "question": "Які космічні зонди були відправлені на орбіту навколо Сонця?",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbc: <http://dbpedia.org/resource/Category:> PREFIX dct: <http://purl.org/dc/terms/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?s WHERE { ?s dct:subject dbc:Missions_to_the_Sun ; rdf:type ?type FILTER ( ?type IN (dbo:Satellite, dbo:ArtificialSatellite) ) }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "s"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 60,
+        "id": "10",
+        "lang": "uk",
+        "question": "Скільки студентів навчається в Амстердамському вільному університеті?",
+        "gold_query": "SELECT DISTINCT ?num WHERE { dbr:Vrije_Universiteit_Amsterdam <http://dbpedia.org/ontology/numberOfStudents> ?num }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "num"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 63,
+        "id": "129",
+        "lang": "uk",
+        "question": "Хто озвучує Барта Сімпсона?",
+        "gold_query": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Bart_Simpson> <http://dbpedia.org/property/voiceactor> ?uri }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 65,
+        "id": "181",
+        "lang": "uk",
+        "question": "Через які країни протікає Єнісей?",
+        "gold_query": "PREFIX res: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT DISTINCT ?uri WHERE { res:Yenisei_River <http://dbpedia.org/ontology/country> ?uri }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 70,
+        "id": "83",
+        "lang": "uk",
+        "question": "Перерахуйте мені усіх гангстерів, які існували в часи Сухого закону.",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dct: <http://purl.org/dc/terms/> PREFIX dbc: <http://dbpedia.org/resource/Category:> PREFIX dbr: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:occupation dbr:Gangster ; dct:subject dbc:Prohibition-era_gangsters }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 71,
+        "id": "71",
+        "lang": "uk",
+        "question": "Перерахуйте мені усі космічні апарати, які полетіли на Марс.",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbc: <http://dbpedia.org/resource/Category:> PREFIX dct: <http://purl.org/dc/terms/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?s WHERE { ?s dct:subject dbc:Mars_rovers ; rdf:type ?type FILTER ( ?type IN (dbo:Satellite, dbo:ArtificialSatellite) ) }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "s"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 77,
+        "id": "21",
+        "lang": "uk",
+        "question": "Хто створив англійську Вікіпедію?",
+        "gold_query": "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX onto: <http://dbpedia.org/ontology/> SELECT ?uri WHERE { <http://dbpedia.org/resource/Wikipedia> onto:author ?uri }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 83,
+        "id": "212",
+        "lang": "uk",
+        "question": "Які компанії працюють як у космічній, так і в медичній галузі?",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbr: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri a dbo:Company ; dbo:industry dbr:Aerospace ; dbo:industry dbr:Medical }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 84,
+        "id": "96",
+        "lang": "uk",
+        "question": "Які професійні серфери народилися на Філіппінах?",
+        "gold_query": "PREFIX dbr: <http://dbpedia.org/resource/> PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { ?uri dbo:occupation dbr:Surfer ; dbo:birthPlace res:Philippines }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 88,
+        "id": "80",
+        "lang": "uk",
+        "question": "Перерахуйте усіх птахів, які перебувають під загрозою винищення",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dct: <http://purl.org/dc/terms/> PREFIX dbc: <http://dbpedia.org/resource/Category:> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri ?p WHERE { ?uri rdf:type dbo:Bird { ?uri dbo:conservationStatus \"CR\" } UNION { ?uri dct:subject dbc:Critically_endangered_animals } }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri",
+                    "p"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 89,
+        "id": "159",
+        "lang": "uk",
+        "question": "Які країни з'єднані Рейном?",
+        "gold_query": "PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX dbp: <http://dbpedia.org/property/> PREFIX dbo: <http://dbpedia.org/ontology/> SELECT DISTINCT ?uri WHERE { {<http://dbpedia.org/resource/Rhine> dbo:country ?uri } UNION {dbr:Rhine dbp:country ?uri} }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 90,
+        "id": "107",
+        "lang": "uk",
+        "question": "Хто був батьком Королеви Єлизавети ІІ?",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT * WHERE { res:Elizabeth_II dbo:parent ?uri . ?uri <http://xmlns.com/foaf/0.1/gender> \"male\"@en }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 92,
+        "id": "211",
+        "lang": "uk",
+        "question": "Перерахуйте мені усіх американських президентів за останні 20 років",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbp: <http://dbpedia.org/property/> PREFIX dct: <http://purl.org/dc/terms/> PREFIX dbc: <http://dbpedia.org/resource/Category:> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type dbo:Person ; dct:subject dbc:Presidents_of_the_United_States ; dbo:activeYearsEndDate ?termEnd FILTER ( ( year(now()) - year(?termEnd) ) <= 20 ) }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 93,
+        "id": "51",
+        "lang": "uk",
+        "question": "Коли фільм \"найгірший сценарій\" з'явиться в кінотеатрах Нідерландів?",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX dbr: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX foaf: <http://xmlns.com/foaf/0.1/> SELECT DISTINCT ?rel WHERE { <http://dbpedia.org/resource/Worst_Case_Scenario_(film)> ?p ?o ; dbo:releaseDate ?rel FILTER contains(lcase(str(?o)), \"netherlands\") }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "rel"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 94,
+        "id": "144",
+        "lang": "uk",
+        "question": "На кому одружився Ланс Басс?",
+        "gold_query": "SELECT DISTINCT ?uri WHERE { {<http://dbpedia.org/resource/Lance_Bass> dbo:spouse ?uri} UNION {?uri dbo:spouse <http://dbpedia.org/resource/Lance_Bass>} }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 95,
+        "id": "167",
+        "lang": "uk",
+        "question": "Яка дочірня компанія TUI Travel обслуговує Глазго та Дублін?",
+        "gold_query": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/TUI_Travel> <http://dbpedia.org/ontology/subsidiary> ?uri . ?uri <http://dbpedia.org/ontology/targetAirport> <http://dbpedia.org/resource/Glasgow_International_Airport> ; <http://dbpedia.org/ontology/targetAirport> <http://dbpedia.org/resource/Dublin_Airport> }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 100,
+        "id": "151",
+        "lang": "uk",
+        "question": "Дайте мені всі бі-сайди Ramones.",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX dbp: <http://dbpedia.org/property/> SELECT DISTINCT ?string WHERE { ?x dbo:musicalArtist res:Ramones ; dbo:bSide ?string }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "string"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 104,
+        "id": "207",
+        "lang": "uk",
+        "question": "Які дочки британських графів померли там, де народились?",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX yago: <http://dbpedia.org/class/yago/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type yago:WikicatDaughtersOfBritishEarls ; dbo:birthPlace ?x ; dbo:deathPlace ?y FILTER ( ?x = ?y ) }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 106,
+        "id": "133",
+        "lang": "uk",
+        "question": "Як звали персонажів Черепашок ніндзя?",
+        "gold_query": "PREFIX foaf:<http://xmlns.com/foaf/0.1/> SELECT DISTINCT ?s WHERE { <http://dbpedia.org/resource/Teenage_Mutant_Ninja_Turtles> <http://dbpedia.org/property/members> ?x . ?x foaf:givenName ?s }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "s"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 108,
+        "id": "165",
+        "lang": "uk",
+        "question": "В якому університеті навчалась дружина Обами?",
+        "gold_query": "SELECT DISTINCT ?s WHERE { <http://dbpedia.org/resource/Barack_Obama> <http://dbpedia.org/ontology/spouse> ?x . ?x <http://dbpedia.org/ontology/almaMater> ?s }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "s"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 109,
+        "id": "108",
+        "lang": "uk",
+        "question": "Коли у Парагваю було проголошено незалежність?",
+        "gold_query": "SELECT DISTINCT ?date WHERE { <http://dbpedia.org/resource/Paraguay> <http://dbpedia.org/ontology/foundingDate> ?date }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "date"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 111,
+        "id": "45",
+        "lang": "uk",
+        "question": "Де помер Авраам Лінкольн?",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> SELECT DISTINCT ?uri WHERE { res:Abraham_Lincoln dbo:deathPlace ?uri }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 113,
+        "id": "9",
+        "lang": "uk",
+        "question": "В якому місці знаходиться штаб-квартира Air China?",
+        "gold_query": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Air_China> <http://dbpedia.org/ontology/headquarter> ?uri . ?uri a <http://dbpedia.org/class/yago/City108524735> }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 114,
+        "id": "201",
+        "lang": "uk",
+        "question": "Який рік заснування пивоварні, що виробляє Pilsner Urquell?",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> SELECT DISTINCT xsd:date(?num) WHERE { <http://dbpedia.org/resource/Pilsner_Urquell> <http://dbpedia.org/property/brewery> ?uri . ?uri dbo:foundingYear ?num }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "callret-0"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 118,
+        "id": "114",
+        "lang": "uk",
+        "question": "Який діаметр Землі?",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT (( xsd:double(?radius) * 2 ) AS ?diameter) WHERE { res:Earth dbo:meanRadius ?radius }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "diameter"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 120,
+        "id": "194",
+        "lang": "uk",
+        "question": "Який штат Сполучених Штатів має абревіатуру MN?",
+        "gold_query": "SELECT DISTINCT ?uri WHERE { ?uri a yago:WikicatStatesOfTheUnitedStates ; <http://dbpedia.org/property/postalabbreviation> \"MN\"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString> }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 126,
+        "id": "97",
+        "lang": "uk",
+        "question": "Перерахуйте мені офіційні веб-сайти акторів серіалу \"Всі жінки відьми\".",
+        "gold_query": "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX foaf: <http://xmlns.com/foaf/0.1/> PREFIX onto: <http://dbpedia.org/ontology/> SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Charmed> onto:starring ?actors . ?actors foaf:homepage ?uri }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 129,
+        "id": "38",
+        "lang": "uk",
+        "question": "Назвіть мені усі Фризькі острови, які належать до Нідерландів.",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX yago: <http://dbpedia.org/class/yago/> PREFIX res: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> SELECT DISTINCT ?uri WHERE { ?uri rdf:type yago:WikicatFrisianIslands ; dbo:country res:Netherlands }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 132,
+        "id": "19",
+        "lang": "uk",
+        "question": "Хто став президентом після смерті Джона Ф.Кеннеді?",
+        "gold_query": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/John_F._Kennedy> <http://dbpedia.org/property/presidentEnd> ?x . ?uri <http://dbpedia.org/property/presidentStart> ?x; a <http://dbpedia.org/ontology/Person>. }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 133,
+        "id": "190",
+        "lang": "uk",
+        "question": "Хто є батьками дружини Хуана Карлоса І?",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX res: <http://dbpedia.org/resource/> SELECT DISTINCT ?uri WHERE { res:Juan_Carlos_I_of_Spain dbo:spouse ?x . ?x dbo:parent ?uri }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 135,
+        "id": "189",
+        "lang": "uk",
+        "question": "У якій студії The Beatles записали свій перший альбом?",
+        "gold_query": "PREFIX dbo: <http://dbpedia.org/ontology/> PREFIX dbp: <http://dbpedia.org/property/> PREFIX dbr: <http://dbpedia.org/resource/> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#> PREFIX db: <http://dbpedia.org/> SELECT ?studio WHERE { ?album dbo:artist dbr:The_Beatles ; rdf:type dbo:Album ; dbo:releaseDate ?date ; dbp:studio ?studio } ORDER BY ASC(?date) LIMIT 1",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "studio"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 137,
+        "id": "94",
+        "lang": "uk",
+        "question": "Коли померла принцеса Діана?",
+        "gold_query": "SELECT DISTINCT xsd:date(?d) WHERE { <http://dbpedia.org/resource/Diana,_Princess_of_Wales> <http://dbpedia.org/ontology/deathDate> ?d }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "callret-0"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 138,
+        "id": "8",
+        "lang": "uk",
+        "question": "Хто засновав Intel?",
+        "gold_query": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Intel> <http://dbpedia.org/property/founders> ?uri }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 140,
+        "id": "119",
+        "lang": "uk",
+        "question": "На яких інструментах грає Кет Стівенс?",
+        "gold_query": "SELECT DISTINCT ?uri WHERE { <http://dbpedia.org/resource/Cat_Stevens> <http://dbpedia.org/ontology/instrument> ?uri }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    },
+    {
+        "index": 142,
+        "id": "116",
+        "lang": "uk",
+        "question": "Кого називали Родзілла?",
+        "gold_query": "SELECT DISTINCT ?uri WHERE { ?uri <http://xmlns.com/foaf/0.1/nick> \"Rodzilla\"@en }",
+        "gold_result": {
+            "head": {
+                "link": [],
+                "vars": [
+                    "uri"
+                ]
+            },
+            "results": {
+                "distinct": false,
+                "ordered": true,
+                "bindings": []
+            }
+        },
+        "gold_execution_error": null,
+        "reason": "Skipped because gold query returned empty result",
+        "gold_values": []
+    }
+]
